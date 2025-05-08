@@ -42,7 +42,7 @@ To contribute, please read our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 ## 📚 **Useful Resources**
 
 * 📘 **Documentation:** Visit our [Official Docs](https://biomcp-hub.org/docs) for API reference and tutorials.
-* 💡 **Community Forum:** Join discussions, get help, and share your insights on our [Discussions Page](https://biomcp-hub.org/discussions).
+* 💡 **Community Forum:** Join discussions, get help, and share your insights on our [Discussions Page](https://discord.gg/PPFE6rTTpv).
 * 🗺️ **Roadmap:** Explore our development roadmap and see upcoming features on our [Roadmap Page](https://biomcp-hub.org/roadmap).
 
 ---
@@ -58,4 +58,3 @@ To contribute, please read our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 BioMCP-Hub is a community-driven project with a mission to revolutionize life sciences. Be part of the journey!
 
 > **[BioMCP-Hub.org](BioMCP-Hub.org)** - Powering Smarter Research, Accelerating Discovery.
-> ""
